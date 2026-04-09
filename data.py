@@ -13,5 +13,19 @@ songs_data = {
     ],
     "relaxed": [
         {"title": "Un Vizhigalil", "artist": "Anirudh"}
-    ]
+    ],
+    "love": [
+    {"title": "Perfect", "artist": "Ed Sheeran"},
+    {"title": "Munbe Vaa", "artist": "A.R. Rahman"}
+    ],
+
+    "motivation": [
+        {"title": "Lose Yourself", "artist": "Eminem"},
+        {"title": "Unstoppable", "artist": "Sia"}
+    ],
+
+    "attitude": [
+        {"title": "Arabic Kuthu", "artist": "Anirudh"},
+        {"title": "Beast Mode", "artist": "Anirudh"}
+    ],
 }
