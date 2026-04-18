@@ -9,9 +9,9 @@ def detect_mood(user_input):
         "angry": ["angry", "mad", "frustrated", "annoyed"],
         "excited": ["excited", "party", "celebration", "thrilled"],
         "relaxed": ["tired", "stress", "calm", "relax", "peace"],
-        "love": ["love", "romantic", "crush", "heart", "miss"],
-        "motivation": ["motivate","frustrated" ,"inspire", "success", "goal", "win"],
-        "attitude": ["attitude","frustrated", "swagger", "mass", "power", "boss"]
+        "love": ["love", "romantic", "crush", "heart", "miss","lovely"],
+        "motivation": ["motivate","frustrated" ,"inspire", "success", "goal", "win","motivational"],
+        "attitude": ["attitude","frustrated", "swagger", "mass", "power", "bossy","fire"]
     }
 
     # 🔍 Check all moods
