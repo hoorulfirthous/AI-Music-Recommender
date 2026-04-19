@@ -32,6 +32,12 @@ It uses simple Natural Language Processing (NLP) to analyze user input and sugge
 *  Spotify API integration
 *  Advanced AI/ML mood detection
 
+screenshots:
+
+<img width="1920" height="1200" alt="Screenshot 2026-04-18 123335" src="https://github.com/user-attachments/assets/8ea73217-24be-4bd0-9dc8-d2febacbc2c6" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-04-18 124722" src="https://github.com/user-attachments/assets/7b25f3cd-8c51-4a24-abb7-0370636e0554" />
+
 ##  Author
 
 Hoorul Firthous A
