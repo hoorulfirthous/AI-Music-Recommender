@@ -38,6 +38,9 @@ screenshots:
 
 <img width="1920" height="1200" alt="Screenshot 2026-04-18 124722" src="https://github.com/user-attachments/assets/7b25f3cd-8c51-4a24-abb7-0370636e0554" />
 
+<img width="1920" height="1200" alt="Screenshot 2026-04-22 121215" src="https://github.com/user-attachments/assets/ca4b98b8-f1b1-45fd-945e-d9cfe9ad02d6" />
+
+
 ##  Author
 
 Hoorul Firthous A
