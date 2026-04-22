@@ -8,13 +8,19 @@ import whisper
 import tempfile
 
 
-st.title("🎵 Mood-Based Music Suggestor")
-st.write("Select your mood and get song recommendations 😄")
+st.set_page_config(
+    page_title="AuraBeats AI 🎧",
+    page_icon="🎧"
+)
+
+st.title("🎧❤️‍🔥 AuraBeats AI")
+st.caption("Feel the vibe. Play your aura. 🎶")
+
 model = whisper.load_model("base")
 
 user_input=st.text_input("how's your day")
 
-st.subheader("or speak your mood 🎤")
+st.subheader("or speak your feel 🎤")
 audio=mic_recorder(start_prompt="start recording",stop_prompt="stop recording")
 
 if st.button("Get Song Recommendations 🎧"):
