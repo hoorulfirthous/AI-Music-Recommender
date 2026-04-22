@@ -13,10 +13,7 @@ It uses simple Natural Language Processing (NLP) to analyze user input and sugge
 
 ##  Tech Stack
 
-* Python 
-* Streamlit 
-* Basic NLP (rule-based)
-* YouTube search integration
+“Developed AuraBeats AI, a voice-enabled music recommendation web app using Streamlit and Whisper, with real-time mood detection and dynamic song suggestions.”
 
 ##  How It Works
 
