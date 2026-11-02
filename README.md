@@ -1,6 +1,6 @@
-#  MoodTune AI – Smart Music Recommendation System
+#  AuraBeats AI – Smart Music Recommendation System
 ##  Overview
-MoodTune AI is a Streamlit-based web application that recommends songs based on the user's mood.
+AuraBeats AI is a Streamlit-based web application that recommends songs based on the user's mood.
 It uses simple Natural Language Processing (NLP) to analyze user input and suggest relevant songs.
 
 ##  Features
